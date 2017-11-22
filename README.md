@@ -14,6 +14,8 @@
 
 __注：此项目纯属个人瞎搞，正常下单请选择饿了么官方客户端。__
 
+由于一些原因，以前的数据接口无法使用，导致项目无法正常运行。以后改用nodejs构建的[后台系统](https://github.com/bailicangdu/node-elm)接口，数据接口的格式保持了和官网的一致。并提供对应的[后台管理系统](https://github.com/bailicangdu/vue2-manage)
+
 
 ## 技术栈
 
